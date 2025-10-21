@@ -1,0 +1,57 @@
+<!DOCKTYPE html>
+<html>
+    <head>
+        <title>
+<b><u><h1>Women's section</h1></u></b>
+        </title>
+    </head>
+    <body>
+
+        <fieldset>
+    <legend><b><U>WOMEN'S SECTION<img src="C:\Users\SUDARSHAN TAKATE\OneDrive\Desktop\myfirstproject\images\wlogo.webp" height="80" width="80"></U></b></legend>
+
+<!-- Product Row 1 -->
+ <fieldset>
+    <legend><b><U>WOMEN'S clothes<img src="C:\Users\SUDARSHAN TAKATE\OneDrive\Desktop\myfirstproject\images\wlogo.webp" height="80" width="80"></U></b></legend>
+    <table align="center" cellpadding="15">
+        <tr>
+            <!-- sarees -->
+            <td align="center">
+                <img src="C:\Users\SUDARSHAN TAKATE\OneDrive\Desktop\myfirstproject\images\womenc.jpg" width="200" height="150"><br><br>
+                <b>WOMEN CLOTHES</b><br>
+                <strike>₹250.00</strike> <b>₹199.00</b><br>
+                from daily wear to all parities to treditional<br><br>
+                <button>Add To Cart</button>
+            </td>
+
+            <!--Ethnic wear -->
+            <td align="center">
+                <img src="C:\Users\SUDARSHAN TAKATE\OneDrive\Desktop\myfirstproject\images\wassrccories.webp" width="200" height="150"><br><br>
+                <b>WOMEN ACCESSORIES</b><br>
+                <strike>₹120.00</strike> <b>₹99.00</b><br>
+                from daily use to fancy <br><br>
+                <button>Add To Cart</button>
+            </td>
+
+            <!-- western wear,dupatta set,kurta set,-->
+            <td align="center">
+                <img src="C:\Users\SUDARSHAN TAKATE\OneDrive\Desktop\myfirstproject\images\wfootwear.jpeg" width="200" height="150"><br><br>
+                <b>WOMEN FOOTWEAR</b><br>
+                <strike>₹150.00</strike> <b>₹100.00</b><br>
+                from daily  use to HIGH HEELS<br><br>
+                <button>Add To Cart</button>
+            </td>
+
+            <!-- MAKEUP-->
+            <td align="center">
+                <img src="C:\Users\SUDARSHAN TAKATE\OneDrive\Desktop\myfirstproject\images\wmakeup.webp" width="200" height="150"><br><br>
+                <b>ALL MACKUP BRANDS</b><br>
+                <strike>₹350.00</strike> <b>₹300.00</b><br>
+                FAMOUS MACKUP BRANDS<br><br>
+                <button>Add To Cart</button>
+            </td>
+        </tr>
+    </table>
+    </fieldset>
+
+    </body>
